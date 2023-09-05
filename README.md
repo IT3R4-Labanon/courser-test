@@ -1,2 +1,2 @@
-# courser-test
+# ✨ courser-test ✨
 courser-test repository
